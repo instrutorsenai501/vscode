@@ -27,7 +27,7 @@ There are many ways in which you can participate in this project, for example:
 * Review [source code changes](https://github.com/microsoft/vscode/pulls)
 * Review the [documentation](https://github.com/microsoft/vscode-docs) and make pull requests for anything from typos to additional and new content
 
-If you are interested in fixing issues and contributing directly to the code base,
+**If you are interested in fixing issues** and contributing directly to the code base,
 please see the document [How to Contribute](https://github.com/microsoft/vscode/wiki/How-to-Contribute), which covers the following:
 
 * [How to build and run from source](https://github.com/microsoft/vscode/wiki/How-to-Contribute)
